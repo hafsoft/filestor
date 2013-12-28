@@ -1,12 +1,17 @@
 {
     "name": "hafsoft/filestor",
     "description": "PHP based File Storage Service",
-    "minimum-stability": "stable",
-    "license": "mit",
+    "license": "MIT",
+    "keywords": ["php", "storage"],
+    "homepage": "http://github.com/hafsoft/filestor/",
     "authors": [
         {
             "name": "Abi Hafshin Alfarouq",
             "email": "abi.hafshin@ui.ac.id"
         }
-    ]
+    ],
+
+    "require": {
+        "php": ">=5.1.0"
+    }
 }
